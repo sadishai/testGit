@@ -31,7 +31,7 @@
 		</dependency>
 		<!-- end::actuator[] -->
 
-		<!-- tag::tests[] -->
+		<!-- tag::tests[sadique] -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
